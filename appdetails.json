@@ -18,6 +18,11 @@
   "free":[
     {"id":0, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"a"},
     {"id":1, "file":0, "city":"Hamburg","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"b"},
-    {"id":2, "file":1, "city":"Los Angeles CA","country":"United States","image":"unitedstates","ip":"205.185.119.100","active":"true","signal":"c"}
+    {"id":2, "file":1, "city":"Florida Miami","country":"United States","image":"unitedstates","ip":"96.47.229.84","active":"true","signal":"c"},
+    {"id":3, "file":2, "city":"California Vallejo 1","country":"United States","image":"unitedstates","ip":"98.248.169.94","active":"true","signal":"d"},
+    {"id":4, "file":2, "city":"California Vallejo 2","country":"United States","image":"unitedstates","ip":"98.248.169.94","active":"true","signal":"e"},
+    {"id":5, "file":3, "city":"California Los Angeles 1","country":"United States","image":"unitedstates","ip":"76.169.97.153","active":"true","signal":"f"},
+    {"id":6, "file":3, "city":"California Los Angeles 2","country":"United States","image":"unitedstates","ip":"76.169.97.153","active":"true","signal":"g"},
+    {"id":7, "file":4, "city":"New York Latham ","country":"United States","image":"unitedstates","ip":"173.198.248.39","active":"true","signal":"g"},
   ]
 }
